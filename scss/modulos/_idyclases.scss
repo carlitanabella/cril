@@ -1,0 +1,447 @@
+#iconsredesdiv {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    color: beige;
+    background-color: #6B5B4A;
+    height: auto;
+
+}
+#iconosredes {
+    display: inline-flex;
+    justify-content: end;
+    align-items: end;
+    color: beige;
+    text-decoration: none;
+    //margin: 10px;
+    padding: 5px;
+    border-radius: 50%;
+    transition: color 0.5 linear;
+}
+#iconosredes:hover {
+    color: #000000;
+    background-color: #EDDCC3;
+
+}
+#iconos {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin: 10px;
+}
+#textheader {
+
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    color: beige;
+    text-decoration: none;
+   // margin-bottom: 10px ;
+    padding: 5px;
+   // transition: color o.5 linear;
+
+}
+#textheader:hover {
+    color: #000000;
+}
+#bgnav{
+//    background-color: #FAC055;
+background-color: #EDDCC3;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+   
+}
+#bgnavdro{
+    background-color: #EDDCC3;
+}
+#bgnavh{
+    text-align: center;
+    border-radius: 5px;
+    transition: color 0.5 linear;
+
+}
+#bgnavh:hover  {
+    background-color: #6B5B4A;
+
+}
+#imglogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+#imgmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+#carousel {
+    background-color: #EDDCC3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+
+    padding: 0px 100px 0px 100px;
+    width: auto;
+
+    
+}
+#imagecarousel {
+    width: fit-content;
+    height: fit-content;
+}
+#bgmain {
+    background-color: #EDDCC3;
+}
+#bgdivmain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #6B5B4A;
+    height: 300px;
+}
+#icntruck {
+    color: #EDDCC3;
+    font-size: 200px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+#icnate {
+    color: #EDDCC3;
+    font-size: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#texttruck {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EDDCC3;
+    font-size: 30px;
+    padding: 40px;
+    text-align: center;
+}
+#bgdiv2main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDDCC3;
+    height: 100px;
+    width: 100%;
+
+
+}
+#bgfooter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDDCC3;
+    height: 300px;
+
+}
+#logofooter {
+    width: 300px;
+
+}
+#bgdivtdr {
+    background-color: #6B5B4A;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#bgimagemain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 500px;
+    display: block;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    clear: both;
+    background: linear-gradient(rgba(8, 8, 8, 0.3), rgb(8, 8, 8, 0.3)), url(../assets/bosque\ \(2\).png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 100px 0px 100px 0px;
+
+    
+}
+#button {
+    background-color: #6B5B4A;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    color: #EDDCC3;
+    list-style: none;
+    transition: all 0.5 linear;
+}
+#button:hover {
+    background-color: #000000;
+    font-size: 90%;
+}
+#imageproductos {
+
+    position: relative;
+    width: 100%;
+    height: 600px;
+    display: block;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    clear: both;
+    background: linear-gradient(rgba(8, 8, 8, 0.3), rgb(8, 8, 8, 0.3)), url(../assets/wood.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.overlayprod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    padding: 40px;
+}
+#textproductos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #EDDCC3;
+    font-size: 1rem;
+    padding: 40px;
+}
+#iconosproducts {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: #6B5B4A;
+    font-size: 10rem;
+    transition: all 0.4s linear;
+
+}
+#iconosproducts:hover {
+    font-size: 1000%;
+    color: #EDDCC3;
+
+}
+
+#iconosp {
+    justify-content: center;
+    align-items: center;
+}
+#an {
+    text-decoration: none;
+    color: inherit;
+}
+#textproductos2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6B5B4A ;
+    font-size: 2rem;
+    text-decoration: solid;
+    text-align: center;
+
+}
+#bgdiv2mainprod {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    background-color: #EDDCC3;
+    height: auto;
+    width: 100%;
+}
+#cardprod {
+    margin: 20px;
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+}
+#imgcardprod {
+    width: 100%;
+
+}
+#textcard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #6B5B4A ;
+    font-size: 2rem;
+}
+#textcardsec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #6B5B4A ;
+    font-size: 20px;
+}
+
+#bgimgentregas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    clear: both;
+    background: linear-gradient(rgba(8, 8, 8, 0.7), rgb(8, 8, 8, 0.7)), url(../assets/camion.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 50px;
+
+
+
+}
+.divimgarg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imgarg {
+    height: 650px;
+}
+.bgcontact {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 600px;
+    display: block;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    clear: both;
+    background: linear-gradient(rgba(128, 100, 69, 0.7), rgb(128, 100, 69, 0.7)), url(../assets/cabañamadera.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 100px;
+
+
+}
+#textcontacto {
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    color: beige;
+    text-decoration: none;
+    margin: 5px ;
+    font-size: 20px;
+}
+.imputcontact {
+    border-radius: 5px;
+}
+.textarea {
+
+    border-radius: 5px;
+
+
+
+
+}
+.form {
+    justify-content: start;
+    align-items: start;
+    padding: 10px;
+}
+.imputcontact {
+    width: 400px;
+    height: 50px;
+}
+.divimgarg2 {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+.textfooter {
+    align-items: start;
+    color: #6B5B4A;
+    width: auto;
+
+    list-style: none;
+    padding: 20px;
+    margin: 20px;
+    border-left: #6B5B4A solid 2px;
+
+
+}
+
+.textfooter2 {
+    align-items: start;
+    color: #6B5B4A;
+    font-size: 1rem;
+    text-decoration: none;
+
+    list-style: none;
+    padding: 10px;
+    transition: color 0.5 linear;
+}
+.textfooter2:hover {
+    color: #000000;
+
+}
+#iconosredesf {
+    display: inline-flex;
+    justify-content: end;
+    align-items: end;
+    color: #6B5B4A;
+    text-decoration: none;
+    //margin: 10px;
+    padding: 5px;
+    border-radius: 50%;
+    transition: color 0.5 linear;
+}
+#iconosredesf:hover {
+    color: #000000;
+    background-color: #EDDCC3;
+
+}
+.divif {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+#afooter {
+    color: #6B5B4A;
+    transition: color 0.5 linear;
+}
+#afooter:hover {
+    color: #000000;
+
+}
+.textfooter2 {
+    font-size: 1rem;
+    padding: 0%;
+}
+.footer {
+    background-color: #EDDCC3;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: auto;
+   
+}

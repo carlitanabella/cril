@@ -1,0 +1,63 @@
+
+@media (min-width: 992px) and (max-width: 1440px) {
+    .textfooter {
+        font-size: 1.2rem;
+    }
+}
+@media (max-width: 992px) {
+    #imglogo {
+        width: 100%;
+       
+    }
+    #logofooter {
+        width: 100%;
+    }
+    #iconsredesdiv {
+        height: auto;
+    }
+    #carousel {
+        padding: 0%;
+        width: 100%;
+        background-color: black;
+    }
+    #iconos {
+        margin: 5px;
+    }
+    #icntruck {
+        font-size: 15vh;
+    }
+    #texttruck{
+        padding: 0%;
+        font-size: 1rem;
+
+    }
+    #icnate {
+        font-size: 20vh;
+    }
+    .textfooter {
+        font-size: 1rem;
+    }
+    #imageproductos {
+        padding: 0%;
+    }
+    #iconosproducts {
+
+        font-size: 5rem;
+    }
+    #textproductos {
+        padding: 2%;
+        font-size: 1rem;
+    }
+    #button {
+        font-size: 0.8rem;
+    }
+    #textproductos2 {
+        font-size: 1rem;
+    }
+    .bgcontact {
+        padding: 10px;
+    }
+
+    
+
+}
